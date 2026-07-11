@@ -1,9 +1,3 @@
-<!--
-  This is your PROFILE README. It goes in a repo named exactly after your
-  username (e.g. github.com/OCTOCAT/OCTOCAT) so GitHub shows it on your profile.
-  Replace the ALL-CAPS placeholders. Widths 370/490 keep the portrait and info
-  card the same height -- if you change the info card's H, re-match these.
--->
 <div align="center">
 
 <table>
@@ -13,17 +7,16 @@
 </tr>
 </table>
 
-## YOUR NAME
+## Aws Alsalamat
 
-**Your Title · Second Thing · Third Thing**
+**SOC Analyst · Red Teamer · Security Researcher**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yoursite.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://YOURSITE.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOURHANDLE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURHANDLE)
-[![Instagram](https://img.shields.io/badge/Instagram-YOURHANDLE-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOURHANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sec--space.net-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://sec-space.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aws-alslamat)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ez.lx)
 
 <br>
 
-<!-- animated contribution graph, refreshed daily by the workflow -->
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
 
 </div>
