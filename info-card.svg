@@ -1,0 +1,22 @@
+<svg viewBox="0 0 490 370" width="490" height="370" xmlns="http://www.w3.org/2000/svg">
+<style>text { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: 13px; white-space: pre; }.label { fill: #7fa8c9; font-weight: bold; }.value { fill: #9fb0c3; }.header { fill: #9fb0c3; font-weight: bold; font-size: 15px; }.rule { stroke: #9fb0c3; stroke-width: 1; opacity: 0.4; }</style>
+<clipPath id="clip_h"><rect x="20" y="14" width="0" height="24"><animate attributeName="width" from="0" to="104.8" dur="0.6s" begin="0s" fill="freeze"/></rect></clipPath>
+<text x="20" y="30" class="header" clip-path="url(#clip_h)">aws@sec-space</text>
+<line x1="20" y1="44" x2="470" y2="44" class="rule"/>
+<clipPath id="clip_r0"><rect x="20" y="54" width="0" height="18"><animate attributeName="width" from="0" to="362.7" dur="0.35s" begin="0.00s" fill="freeze"/></rect></clipPath>
+<text x="20" y="68" clip-path="url(#clip_r0)"><tspan class="label">Role</tspan><tspan class="value">: SOC Analyst / Red Team (junior)</tspan></text>
+<clipPath id="clip_r1"><rect x="20" y="76" width="0" height="18"><animate attributeName="width" from="0" to="217.6" dur="0.35s" begin="0.09s" fill="freeze"/></rect></clipPath>
+<text x="20" y="90" clip-path="url(#clip_r1)"><tspan class="label">Location</tspan><tspan class="value">: Amman, Jordan</tspan></text>
+<clipPath id="clip_r2"><rect x="20" y="98" width="0" height="18"><animate attributeName="width" from="0" to="572.3" dur="0.35s" begin="0.18s" fill="freeze"/></rect></clipPath>
+<text x="20" y="112" clip-path="url(#clip_r2)"><tspan class="label">Education</tspan><tspan class="value">: B.Sc. Computer Science, Tafila Technical University ('26)</tspan></text>
+<clipPath id="clip_r3"><rect x="20" y="120" width="0" height="18"><animate attributeName="width" from="0" to="499.7" dur="0.35s" begin="0.27s" fill="freeze"/></rect></clipPath>
+<text x="20" y="134" clip-path="url(#clip_r3)"><tspan class="label">Project</tspan><tspan class="value">: SEC-SPACE — security toolkit + blog (co-founder)</tspan></text>
+<clipPath id="clip_r4"><rect x="20" y="142" width="0" height="18"><animate attributeName="width" from="0" to="499.7" dur="0.35s" begin="0.36s" fill="freeze"/></rect></clipPath>
+<text x="20" y="156" clip-path="url(#clip_r4)"><tspan class="label">Experience</tspan><tspan class="value">: PCI DSS ASV vuln assessments — Banyamer Security</tspan></text>
+<clipPath id="clip_r5"><rect x="20" y="164" width="0" height="18"><animate attributeName="width" from="0" to="483.6" dur="0.35s" begin="0.45s" fill="freeze"/></rect></clipPath>
+<text x="20" y="178" clip-path="url(#clip_r5)"><tspan class="label">Track record</tspan><tspan class="value">: TryHackMe top 5% (310+ rooms), ~80% HTB tracks</tspan></text>
+<clipPath id="clip_r6"><rect x="20" y="186" width="0" height="18"><animate attributeName="width" from="0" to="548.1" dur="0.35s" begin="0.54s" fill="freeze"/></rect></clipPath>
+<text x="20" y="200" clip-path="url(#clip_r6)"><tspan class="label">Certs</tspan><tspan class="value">: eJPTv2 Prep, TryHackMe SOC path, Edraak Cyber Security</tspan></text>
+<clipPath id="clip_r7"><rect x="20" y="208" width="0" height="18"><animate attributeName="width" from="0" to="588.4" dur="0.35s" begin="0.63s" fill="freeze"/></rect></clipPath>
+<text x="20" y="222" clip-path="url(#clip_r7)"><tspan class="label">Focus</tspan><tspan class="value">: SIEM (Wazuh), Active Directory attack paths, malware triage</tspan></text>
+</svg>
